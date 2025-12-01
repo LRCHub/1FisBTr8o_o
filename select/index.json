@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【☆ニコオケ☆Final】最後にもう一度『流星群』を演奏してみた【10周年】",
+  "base_artist": "KohMei",
+  "createdAt": "2025-12-01T15:53:15.717520Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最後にもう一度",
+      "artist": "秋庭豊とアローナイツ",
+      "has_synced": false,
+      "path": "select/pl_01_最後にもう一度_秋庭豊とアローナイツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "最後にもう一度",
+      "artist": "秋庭豊とアローナイツ",
+      "has_synced": false,
+      "path": "select/pl_02_最後にもう一度_秋庭豊とアローナイツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "最後にもう一度抱きしめて",
+      "artist": "秋庭豊とアローナイツ",
+      "has_synced": false,
+      "path": "select/pl_03_最後にもう一度抱きしめて_秋庭豊とアローナイツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "最後にもう一度",
+      "artist": "秋庭豊とアローナイツ",
+      "has_synced": false,
+      "path": "select/pl_04_最後にもう一度_秋庭豊とアローナイツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "最後にもう一度",
+      "artist": "秋庭豊とアローナイツ",
+      "has_synced": false,
+      "path": "select/pl_05_最後にもう一度_秋庭豊とアローナイツ.txt"
+    }
+  ]
+}
